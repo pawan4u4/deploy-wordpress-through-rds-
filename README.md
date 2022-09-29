@@ -1,1 +1,0 @@
-# deploy-wordpress-through-rds-
